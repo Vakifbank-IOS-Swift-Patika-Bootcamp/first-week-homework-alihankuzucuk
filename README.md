@@ -13,7 +13,7 @@
 ***
 </pre>
 
-4- Yazdığınız piramit fonksiyonun çıktısını ortalı olacak şekilde yazınız.
+:white_check_mark: 4- Yazdığınız piramit fonksiyonun çıktısını ortalı olacak şekilde yazınız.
 Örn:
 <pre>
   *
