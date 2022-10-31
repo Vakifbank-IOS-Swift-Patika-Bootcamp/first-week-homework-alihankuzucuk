@@ -4,7 +4,7 @@
 
 2- Verilen bir array içerisindeki her bir elemanın sayısını veren bir fonksiyon yazınız.
 
-3- "*" Karakterinden piramit oluşturan fonksiyonu yazınız. Parametre olarak kaç katlı olacağı alınsın.
+:white_check_mark: 3- "*" Karakterinden piramit oluşturan fonksiyonu yazınız. Parametre olarak kaç katlı olacağı alınsın.
 
 Örn: Parametre 3 ise çıktı aşağıdaki şekilde olmalı
 <pre>
