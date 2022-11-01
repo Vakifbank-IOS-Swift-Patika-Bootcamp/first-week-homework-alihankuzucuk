@@ -21,7 +21,7 @@
 * * *
 </pre>
 
-5- https://projecteuler.net/archives ilk 3 soruyu çözünüz.
+:white_check_mark: 5- https://projecteuler.net/archives ilk 3 soruyu çözünüz.
 
 6- Pragmatic Programmer ilk 4 chapter okuyup, özetleyiniz.(Bullet point olabilir.)
 
