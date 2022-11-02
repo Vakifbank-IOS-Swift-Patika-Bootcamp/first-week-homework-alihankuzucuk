@@ -2,7 +2,7 @@
 
 :white_check_mark: 1- Palindrome. Verilen Stringin palindrome olup olmadığını kontrol eden bir fonksiyon yazınız.
 
-2- Verilen bir array içerisindeki her bir elemanın sayısını veren bir fonksiyon yazınız.
+:white_check_mark: 2- Verilen bir array içerisindeki her bir elemanın sayısını veren bir fonksiyon yazınız.
 
 :white_check_mark: 3- "*" Karakterinden piramit oluşturan fonksiyonu yazınız. Parametre olarak kaç katlı olacağı alınsın.
 
